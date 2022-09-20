@@ -12,7 +12,7 @@ ___
 #### 📚Resources:
 
 
-#### 💭Daily Reflection:
+#### 💭Daily Reflection: What else is hidden in all the code of the world?
 
 💡3 Things I learned today:
 1. Command line pushing 
