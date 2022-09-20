@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [Sept]/[19]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Command line pushing 
+2. Command line pulling
+3. Initiating git through command line
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. pushing multiple folders
+2. Collaborating with more than oen person on a github project
 
 ✋One thing I'm having trouble understanding:
-1. 
+1.  pushing multiple folders in command line
 
 
 ___
