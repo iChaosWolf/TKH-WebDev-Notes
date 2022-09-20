@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [Sept]/[20] 
 
 #### 🗒️Notes from class:
 
