@@ -15,7 +15,7 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
+1. asd
 2. 
 3. 
 
