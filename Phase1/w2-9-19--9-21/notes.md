@@ -40,8 +40,8 @@ ___
 
 💡3 Things I learned today:
 1. Different ways to add files
-2. 
-3. 
+2. making repos with command line
+3. Faster login for github
 
 👁️Two things I would like to know more about:
 1. How many different ways there are to manage projects on github
