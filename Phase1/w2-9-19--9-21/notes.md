@@ -70,6 +70,6 @@ ___
 2. Using visual studio menus to branch
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. If there is a way to fork in command line
  
 
