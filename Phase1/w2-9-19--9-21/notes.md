@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [Sept]/[21]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,13 +61,13 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Visual Studio has the ability to push to repos through menus
+2. multiple branches can be made
+3. branches can be deleted after merges in bigger projects dont' need to be deleted in smaller ones
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Using visual studio menus to push
+2. Using visual studio menus to branch
 
 ✋One thing I'm having trouble understanding:
 1. 
