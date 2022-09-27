@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[26]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. asd
-2. 
-3. 
+1. Different uses of Figma in the UX world.
+2. Figma is used for very basic design
+3. There are plugins that you can use to better assist in design on Figma
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1.  Bootstrap
+2.  Grid
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. n/a
 
 
 ___
