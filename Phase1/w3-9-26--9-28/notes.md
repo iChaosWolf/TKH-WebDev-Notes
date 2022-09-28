@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [September]/[26] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1.  flex box alighnment
+2.  Different uses of flex
+3.  Different ways of styling with css
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. n/a
+2. n/a 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. n/a
 
 ___
 
