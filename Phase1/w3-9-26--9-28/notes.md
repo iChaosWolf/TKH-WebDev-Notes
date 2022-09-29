@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [September]/[26] 
+### Day 2, [September]/[27] 
 
 #### 🗒️Notes from class:
 
@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [Sept]/[28]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. spacing in flex
+2. css grid 
+3. Different styling methods
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. n/a
+2. n/a
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. n/a
  
 
