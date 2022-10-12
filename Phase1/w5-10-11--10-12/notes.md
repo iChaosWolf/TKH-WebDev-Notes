@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [Oct]/[11]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. N/A
+2. N/A
+3. N/A
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. M/A
+2. N/A
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. N/A
 
 
 ___
